@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Hock;Andrea;;;
-FN: Andrea  Hock 
+N:Rabbe;Maria;;;
+FN: Maria  Rabbe 
 ORG:Autlook Filmsales;
-TITLE:Director of Sales
-EMAIL;type=INTERNET;type=WORK;type=pref:andrea@autlookfilms.com
-TEL;type=WORK;type=VOICE:+43 670 208 7881
+TITLE:Servicing & Marketing Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:print@autlookfilms.com
+TEL;type=WORK;type=VOICE:+43 677 612 99026
 item1.ADR;type=WORK;type=pref:;;Spittelberggasse 3/14\n1070 Vienna;;;Austria
 item1.X-ABADR:sg
 item2.URL;type=pref:autlookfilms.com
