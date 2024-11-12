@@ -7,7 +7,6 @@ ORG:Autlook Filmsales;
 TITLE:Sales Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:eve@autlookfilms.com
 TEL;type=Office;type=VOICE:+43 670 208 7881 
-TEL;type=Cell;type=VOICE:+43 677 612 99026
 item1.ADR;type=WORK;type=pref:;;Bernardgasse 39/9\n1070 Vienna;;;Austria
 item1.X-ABADR:sg
 item2.URL;type=pref:autlookfilms.com
